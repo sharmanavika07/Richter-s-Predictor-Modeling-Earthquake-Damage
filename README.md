@@ -17,6 +17,10 @@ The dataset mainly consists of information on the buildings' structure and their
 
 There are 39 columns in this dataset, where the building_id column is a unique and random identifier. The remaining 38 features are described in the section below. Categorical variables have been obfuscated random lowercase ascii characters. The appearance of the same character in distinct columns does not imply the same original value.
 
+**My performance: 326 rank out of 2861 COMPETITORS** (As of 12.07.20)
+
+**The highest F1- score was 0.7558. My model's F1 - score was 0.7338**
+https://www.drivendata.org/competitions/57/nepal-earthquake/leaderboard/
 
 **Approach to the problem:**
 - The dataset contains 4 numerical variables and rest all are categorical variables.
